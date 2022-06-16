@@ -314,6 +314,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 40px;
 }
 
 .project {
@@ -383,7 +384,7 @@ p {
 }
 
 .testimonial__avatar {
-    width: 150px;
+    width: 160px;
     height: 150px;
     border-radius: 50%;
     margin: 12px;
