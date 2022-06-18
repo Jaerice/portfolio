@@ -97,7 +97,7 @@ workBtnContainer.addEventListener('click', (e) => {
 // 2. IntersectionObserver를 이용해서 모든 섹션들을 관찰한다
 // 2. use IntersectionObserver to observe all the sections
 // 3. 보여지는 섹션에 해당하는 메뉴 아이템을 활성화 시킨다
-// 3. Activate the menu item corresponding to the section shown
+// 3. Activate the menu items corresponding to the section shown
 const sectionIds = [
   '#home',
   '#about',
